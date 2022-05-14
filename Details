@@ -1,0 +1,21 @@
+Reacap:
+  APIs --> Application Program Interface which enables communication between softwares using JSON
+  
+  Publics APIs
+  Look for You requirement & Choose a type of API
+  Use APIs which has HTTPS & CORS --> Cross Origin Resources Sharing enabled
+
+  If Signing is fine Go for Auth, HTTPS, CORS enabled
+
+  DOM Manipulation examples
+  Email Verification ---> Get email Input read it with selectors and make a API to fetch the details of the email validity.
+  Weather ---> Get city Input read it with selectors and make a API to fetch the details of the city weather.
+
+Topics:
+
+  Mock APIs --> A Mocked Server/Backend setup which support the Client to perform CRUD operations from UI
+  CRUD Operations on Resources
+  Read ( GET ) all, particular ---> Read all/specific entity
+  Create ( POST ) --> Create a new entity
+  Update ( PUT ) --> Update a particular
+  Delete ( DELETE ) --> Update a particular
